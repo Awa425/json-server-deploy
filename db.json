@@ -18,7 +18,7 @@
             "specialite": "specialite 1"
         },
         {
-            "id": "aziz123",
+            "id": "veterinaire1",
             "nomComplet": "aziz khouma",
             "password": "passer",
             "role": "veterinaire",
@@ -34,42 +34,6 @@
             "adresse": "pikine",
             "telephone": "23456789",
             "specialite": "specialite 2"
-        },
-        {
-            "id": "dfghj",
-            "nomComplet": "sdfghj",
-            "password": "ok",
-            "role": "veterinaire",
-            "adresse": "bbbb",
-            "telephone": "45678",
-            "specialite": "dfghjk"
-        },
-        {
-            "id": "tyui",
-            "nomComplet": "employe1",
-            "password": "ok",
-            "role": "employe",
-            "adresse": "tyuio",
-            "telephone": "ertyu",
-            "matricule": "ertyu"
-        },
-        {
-            "id": "emplo",
-            "nomComplet": "test empl",
-            "password": "ok",
-            "role": "employe",
-            "adresse": "pikine",
-            "telephone": "456789",
-            "matricule": "aaa"
-        },
-        {
-            "id": "ertyu",
-            "nomComplet": "zerty",
-            "password": "ok",
-            "role": "employe",
-            "adresse": "erty",
-            "telephone": "rty",
-            "matricule": "rty"
         }
     ],
     "troupeaux": [
